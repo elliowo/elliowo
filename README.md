@@ -1,9 +1,9 @@
 <p><pre align="center">
-<strong>Elliot/</strong> <a href="https://elliot.science/">Homepage</a> / <a href="https://github.com/elliowo">GitHub</a> / <a href="https://matrix.to/#/@elliowo:matrix.org"> Matrix </a></pre></p>
+<strong>Elliot /</strong> <a href="https://elliot.science/">Homepage</a> / <a href="https://github.com/elliowo">GitHub</a> / <a href="https://matrix.to/#/@elliowo:matrix.org"> Matrix </a></pre></p>
 
 Hello :) 
 
-I am currently working as a full-stack developer, as the sole developer at non-tech family company I oversee the all websites and infrastructure.
+I am currently working as a full-stack developer. As the sole developer at non-tech family company. I oversee the all websites and infrastructure.
 
 ---
 
@@ -16,6 +16,7 @@ I am currently working as a full-stack developer, as the sole developer at non-t
 ### Some of my projects 
 
 [unknown_os](https://github.com/elliowo/unknown_os) - A hobby operating system I am working on written in Rust, is currently a very basic kernel
+
 [mullvad-wg-doas](https://github.com/elliowo/mullvad-wg-doas) - Fork of phvr's Mullvad VPN script, with sudo replaced with OpenDoas
 
 ---
