@@ -3,13 +3,12 @@
 
 Hello :) 
 
-I am currently working as a full-stack developer. As the sole developer at non-tech family company. I oversee the all websites and infrastructure.
+I am currently working as a full-stack developer. As the sole developer at family company, I oversee the all websites and infrastructure.
 
 ---
 
 - Currently learning OS dev
-- Probably editing emacs config 
-- Reach me on Matrix 
+- Contact me through Matrix 
 
 ---
 
